@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM episodeIV WHERE INSTR(dialogue, 'Luke')>0;
